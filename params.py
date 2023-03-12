@@ -1,4 +1,4 @@
-params = {
+PARAMS = {
     'times_to_water': 10,
     'buttons': {
         'walk': {

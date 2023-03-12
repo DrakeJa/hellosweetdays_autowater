@@ -1,6 +1,8 @@
 import pyautogui
 from time import sleep
 
+# Use this script to find coordinates of buttons
+
 
 def main():
     while True:
