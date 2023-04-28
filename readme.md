@@ -18,7 +18,7 @@ Once you have the emulator downloaded and installed, you have two options to ins
 
 1. Method 1:  
    - Login to Google on the Android emulator and download it from the Google Play Store
-2. Method 2
+2. Method 2:
    - [Download the .xapk file from APKPure](https://apkpure.com/hello-sweet-days/jp.cocone.sweetdays) 
    - Install the .xapk file according to your emulator (you can find this out through a quick Google search probably)
 
