@@ -15,9 +15,12 @@ again to make money in a game that will fizzle out in give or take 2 years.
   - [Android-x86 (Linux)](https://www.android-x86.org/)
 
 Once you have the emulator downloaded and installed, you have two options to install Hello Sweet Days:
-  
-  - Login to Google on the Android emulator and download it from the Google Play Store
-  - [Download the .xapk file from APKPure](https://apkpure.com/hello-sweet-days/jp.cocone.sweetdays) 
+
+1. Method 1:  
+   - Login to Google on the Android emulator and download it from the Google Play Store
+2. Method 2
+   - [Download the .xapk file from APKPure](https://apkpure.com/hello-sweet-days/jp.cocone.sweetdays) 
+   - Install the .xapk file according to your emulator (you can find this out through a quick Google search probably)
 
 Now that you have Hello Sweet Days installed, launch the app and login with Facebook.
 
